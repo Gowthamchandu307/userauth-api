@@ -32,13 +32,13 @@ This project implements a user registration and authentication system using Fast
    ```sh
    git clone https://github.com/Gowthamchandu307/userauth-api
    cd userauth-api
-  ```
+   ```
 2. Configure environment variables such as database connection details and JWT secret key.
 
 3. Setup Database operations
     ```sh
-   python database_operations.py
-   ```
+    python database_operations.py
+    ```
 
 4. Build and run the Docker containers:
 
